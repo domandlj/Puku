@@ -1,5 +1,7 @@
 # Puku
 
+##
+![image](screenshots/screen4.png)
 
 ## Folder structure
 ```
