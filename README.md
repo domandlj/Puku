@@ -2,7 +2,9 @@
 
 ##
 ![image](screenshots/screen4.png)
-
+![image](screenshots/screen3.png)
+![image](screenshots/screen1.png)
+![image](screenshots/screen2.png)
 ## Folder structure
 ```
 .
